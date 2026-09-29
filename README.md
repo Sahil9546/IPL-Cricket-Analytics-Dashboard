@@ -2,7 +2,7 @@
 
 An interactive, data-driven web dashboard built to analyze and visualize Indian Premier League (IPL) performance metrics[cite: 1]. From match outcomes and toss impacts to ball-by-ball player breakdowns, this application provides dynamic insights into T20 cricket analytics[cite: 1].
 
-🚀 **Live Demo:** ipl-cricket-analytics-dashboard ∙ main ∙ dashboard/app.py
+🚀 **Live Demo:** https://ipl-cricket-analytics-dashboard-6qwvjvaayejkzgesteo8kd.streamlit.app/
 
 
 
